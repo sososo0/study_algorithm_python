@@ -29,7 +29,7 @@ array.sort()
 - **퀵 정렬** : 기준 데이터를 설정하고 그 기준보다 큰 데이터와 작은 데이터의 위치를 바꾸는 방법, 첫 번째 데이터를 기준 데이터(pivot)으로 설정
 - **계수 정렬** : 데이터(양수) 중 최대값 K를 찾아 K+1 길이의 리스트를 생성, 해당 리스트를 통해 데이터들의 개수를 Count한 후, 리스트에 Counting된 수 만큼 출력 
 - **버블 정렬** : 뒤에서 부터 앞으로 정렬을 해나가는 구조, 맨 뒷자리에 제일 큰 값을 제일 뒤로 보내는 방식으로 정렬 
-
+[bubble sort](https://www.daleseo.com/sort-bubble/)
 
 ### Greedy 
 
@@ -39,4 +39,6 @@ array.sort()
 
 
 
-[참고 강의](https://school.programmers.co.kr/learn/courses/14760/14760-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-pccp-%ED%95%A9%EA%B2%A9-%EB%8C%80%EB%B9%84-%EC%8B%A4%EC%A0%84-%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC-%ED%95%B4%EC%84%A4-%EA%B0%95%EC%9D%98python%ED%8E%B8) 
+[참고 강의 1](https://school.programmers.co.kr/learn/courses/14760/14760-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-pccp-%ED%95%A9%EA%B2%A9-%EB%8C%80%EB%B9%84-%EC%8B%A4%EC%A0%84-%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC-%ED%95%B4%EC%84%A4-%EA%B0%95%EC%9D%98python%ED%8E%B8) 
+
+[참고 강의 2](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
